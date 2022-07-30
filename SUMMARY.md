@@ -2,7 +2,7 @@
 
 * [😀 INTRO](README.md)
 
-## Group 1
+## intro
 
-* [기술면접](group-1/undefined/README.md)
-  * [데이터베이스](group-1/undefined/undefined.md)
+* [데이터베이스](intro/database/README.md)
+  * [정규화](intro/database/nomalization.md)
