@@ -1,4 +1,4 @@
-# OS(Operating System)
+# OS - Basic Theory
 
 ## 1. 운영체제
 
@@ -25,7 +25,7 @@
 * 오픈소스
 * Architecture
 
-![](<../../.gitbook/assets/image (4) (3).png>)
+![](<../../../.gitbook/assets/image (4) (3).png>)
 
 #### 유닉스
 
@@ -61,7 +61,7 @@ OS의 구성요소로 미들웨어와 펌웨어가 있다.
 
 * 보안, 자원 관리(프로세스, 메모리), 하드웨어 추상화
 * 블루 스크린 = 커널 패닉 = 운영체제가 멈췄다.
-* ![](<../../.gitbook/assets/image (7).png>)
+* ![](<../../../.gitbook/assets/image (7).png>)
 
 **쉘**
 
@@ -103,7 +103,7 @@ Foreground Process
 
 ### 3. 2 프로세스 - DEV
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 ***
 
@@ -131,13 +131,13 @@ Foreground Process
 
 * 이도 저도 아무것도 안되는 상황
 * 대안 : 뮤텍스, 이벤트 , 세마포어, 타이머
-* ![](<../../.gitbook/assets/image (6) (1).png>)
+* ![](<../../../.gitbook/assets/image (6) (1).png>)
 
 \\
 
 ### 3. 4 동기화(Synchronization)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 #### **멀티 스레드의 한계**
 
