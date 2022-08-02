@@ -75,3 +75,9 @@ variable을 data structure 각 list 또는 dictionary에 추가하면 참조 횟
   - 이가설은 대부분은 어린 객체가 오래된 객체보다 해제될 가능성이 훨씬 높다는 가설이다.
 
   [Generational Hypothesis | Plumbr - User Experience & Application Performance Monitoring](https://plumbr.io/handbook/garbage-collection-in-java/generational-hypothesis)
+
+<br>
+
+## 참조
+
+- https://dc7303.github.io/python/2019/08/06/python-memory/

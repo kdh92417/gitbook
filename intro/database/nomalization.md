@@ -2,7 +2,7 @@
 
 
 
-> 정규화는 이상현상이 있는 릴레이션을 분해하여 이상현상을 제거하는 것
+> 정규화는 [이상현상](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Database#1-%EC%A0%95%EA%B7%9C%ED%99%94%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%B0%B0%EA%B2%BD%EC%97%90%EC%84%9C-%EC%83%9D%EA%B2%A8%EB%82%AC%EB%8A%94%EA%B0%80)이 있는 릴레이션을 분해하여 이상현상을 제거하는 것
 >
 > 즉, 데이터가 꼬이는 것을 막기 위해 테이블을 잘게 나누는 것
 
