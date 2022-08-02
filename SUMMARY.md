@@ -8,4 +8,6 @@
   * [정규화](intro/database/nomalization.md)
 * [Python](intro/python/README.md)
   * [Python's GIL](intro/python/GIL.md)
-  * [Garbage Collector](intro/python/garbage_collector.md)
+  * [Garbage Collector](intro/python/garbage\_collector.md)
+* [Computer Science](intro/computer-science/README.md)
+  * [OS(Operating System)](intro/computer-science/os-operating-system.md)
