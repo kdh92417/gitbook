@@ -10,17 +10,17 @@
 
 #### 소규모 네트워크 예시
 
-![소규모 네트워크 예시](<../../../.gitbook/assets/image (8).png>)
+![소규모 네트워크 예시](<../../.gitbook/assets/image (8).png>)
 
 
 
 #### 회사 네트워크 예시
 
-![회사 네트워크 예시](<../../../.gitbook/assets/image (14).png>)
+![회사 네트워크 예시](<../../.gitbook/assets/image (14).png>)
 
 #### 대륙간 네트워크
 
-![대륙간 네트워크](<../../../.gitbook/assets/image (12).png>)
+![대륙간 네트워크](<../../.gitbook/assets/image (12).png>)
 
 
 
@@ -35,7 +35,7 @@
 
 ### 2. 1 네트워크 프로토콜 : OSI 7 계층, TCP / IP 모델
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 #### OSI 7 계층 - 이상적인 구조
 
@@ -67,7 +67,7 @@
 
 #### 캡슐화
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 * 캡슐를 입힌다 : 정보를 답는다.
 * 캡슐을 벗긴다 : 정보를 빼서 해석한다.
@@ -81,7 +81,7 @@
 
 * 메신저앱에서 메시지를 전송하는 상황
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 ###
 
@@ -95,7 +95,7 @@
 
 **PPP(Point-to-Point Protocol) - 점대점 통신 약속(두대의 PC)**
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 * 두 통신 노드 간의 직접적인 연결을 위해 사용
 * Data-Link Protocol
@@ -106,7 +106,7 @@
 
 #### Local Area Network
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 #### **근거리 통신망. LAN의 등장(1964)**
 
@@ -127,7 +127,7 @@
 * 이 컴퓨터들을 어떤 모양으로 연결해야될까?
 * LAN 토폴로지 : 통신망 구조
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 * 웹서버는 Star Topology 방식을 따른다.
 
@@ -159,7 +159,7 @@
 * IP주소 : 인터넷 상에서 컴퓨터를 찾아가기 위해 사용하는 주소
 * 정의, 역활, 헤더(spec)
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 #### 생각해 볼 문제
 
@@ -201,7 +201,7 @@
 
 #### TCP(Transmission Control Protocol) - 전화
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 * 전송 제어 프로토콜 : 신뢰성 있는 연결 성립을 위한 프로토콜
 * 신뢰성 보장, 혼잡 제어, 흐름 제어 (netstat - an)
@@ -210,7 +210,7 @@
 
 #### 3-Way Handshaking
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 * 전송 제어 프로토콜 : 신뢰성 있는 연결 성립을 위한 프로토콜
 * 서로간에 통신을 하겠다고 선언을 한 후 대화를 하자(암구어)
@@ -221,7 +221,7 @@
 
 ### 5. 2 UDT(User Datagram Protocol) - 우편
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 * 편지가 간혹 안 갈때도 있지만 그런 일은 거의 없다.
 * 모든 연결을 신뢰성있게 해야 하는 것은 아니다!
@@ -265,7 +265,7 @@
 
 ### 6. 2 DNS(Domain Name System) - 프로토콜
 
-![](../../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 * 도메인 네임 시스템
 * 도메인 이름을 네트워크 주소로 바꾸거나 그 반대를 수행
@@ -289,7 +289,7 @@
 
 ### 6. 3 HTTP
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 * Application 계층에서 존재한다. (DNS도 마찬가지)
 * HyperText Transfer Protocol
@@ -313,7 +313,7 @@
 
 #### HTTP 헤더
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 \
 
@@ -325,4 +325,4 @@
   * IEEE 802.11 표준을 기반으로 하는 무선 통신 기술
   * Wifi 와 OSI 7 Layer
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)
