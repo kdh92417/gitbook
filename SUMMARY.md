@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😀 INTRO](README.md)
+* [INTRO](README.md)
 
 ## intro
 
@@ -11,5 +11,6 @@
   * [Garbage Collector](intro/python/garbage\_collector.md)
 * [Computer Science](intro/computer-science/README.md)
   * [OS(Operating System)](intro/computer-science/os-operating-system.md)
-* [Basic Knowledge](intro/basic_knowledge/README.md)
-  * [기본 지식](intro/basic_knowledge/basic_knowledge.md)
+  * [Network](intro/computer-science/network.md)
+* [Basic Knowledge](intro/basic\_knowledge/README.md)
+  * [기본 지식](intro/basic\_knowledge/basic\_knowledge.md)
