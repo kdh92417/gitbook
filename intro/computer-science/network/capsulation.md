@@ -6,11 +6,11 @@
 
 예를 들자면, 택배처럼 물건을 보낼 때 물건을 안전하게 감싸고 박스에 넣고 테이프를 붙이는 등 차례로 물건을 담아 붙이고 택배를 받을 때는 테이프를 제거하고 박스를 열어 감싸진 완충제나 보호제를 벗기고 물건을 꺼내는 것처럼 네트워크 통신도 이와 다르지 않습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d271cd62-6b61-4f75-8efe-05002909a793/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d271cd62-6b61-4f75-8efe-05002909a793/Untitled.png)
+![](<../../../.gitbook/assets/image (15).png>)
 
 ### OSI 7 layer에서의 캡슐화 / 역캡슐화
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5106748-465c-47d4-84a9-e44ee5415ad0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5106748-465c-47d4-84a9-e44ee5415ad0/Untitled.png)
+![](<../../../.gitbook/assets/image (18).png>)
 
 여기서 헤더란 OSI 계층 모델에서 사용자가 데이터를 보낼 떄 각 계층을 지나면서 각각 데이터 정보를 붙이게 되는 것을 말하고 헤더에는 자신의 계층 특성을 담은 제어정보를 담습니다.
 
@@ -18,7 +18,11 @@
 
 반대로 데이터를 받는 쪽은 역캡슐화 하여 사용자에게 헤더를 뺀 데이터를 보여줍니다.
 
+
+
 ## 2. 프로그램 캡슐화
+
+![](<../../../.gitbook/assets/image (5).png>)
 
 프로그램 캡슐화는 객체지향 프로그래밍 언어의 기본 개념 중 하나로서 객체에 관한 메소드와 속성들을 캡슐로 묶어서 내부를 보호하고 볼 수 없게 하는 것을 말합니다.
 
@@ -26,7 +30,4 @@
 
 예를 들어 영업사원이 사람들에게 물건을 어떻게 사용하는지는 알려주지만 어떻게 만들어졌는지는 알려주지 않는 것과 같습니다. 즉 내부 동작 방법이나 방식을 숨기고 사용 방법만 알려주는 것이죠
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58ab2032-eb4c-4459-8207-d9d1938d3f46/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58ab2032-eb4c-4459-8207-d9d1938d3f46/Untitled.png)
-
-> *네트워크의 캡슐화는 데이터를 전달 할때 한겹한겹 헤더를 추가해서 다음 계층으로 넘어가기 위해 정보를 덧붙여 감싸고 받을 때는 그것을 벗기는 의미이고 프로그램에서의 캡슐화는 말 그대로 속이 보이지 않는 알약같은 의미입니다.*
->
+> _네트워크의 캡슐화는 데이터를 전달 할때 한겹한겹 헤더를 추가해서 다음 계층으로 넘어가기 위해 정보를 덧붙여 감싸고 받을 때는 그것을 벗기는 의미이고 프로그램에서의 캡슐화는 말 그대로 속이 보이지 않는 알약같은 의미입니다._
