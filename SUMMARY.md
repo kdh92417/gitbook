@@ -12,6 +12,7 @@
 * [Computer Science](intro/computer-science/README.md)
   * [Operating System](intro/computer-science/operating-system/README.md)
     * [OS - Basic Theory](intro/computer-science/operating-system/os-operating-system.md)
+    * [Process and Thread](intro/computer-science/operating-system/process_and_thread.md)
   * [Network](intro/computer-science/network/README.md)
     * [Network - Basic Theory](intro/computer-science/network/network.md)
     * [네트워크 캡슐화와 프로그램 캡슐화](intro/computer-science/network/capsulation.md)
