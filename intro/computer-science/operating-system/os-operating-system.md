@@ -137,7 +137,7 @@ Foreground Process
 
 ### 3. 4 동기화(Synchronization)
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 #### **멀티 스레드의 한계**
 

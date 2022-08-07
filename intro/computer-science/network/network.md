@@ -35,7 +35,7 @@
 
 ### 2. 1 네트워크 프로토콜 : OSI 7 계층, TCP / IP 모델
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (2).png>)
 
 #### OSI 7 계층 - 이상적인 구조
 
@@ -265,7 +265,7 @@
 
 ### 6. 2 DNS(Domain Name System) - 프로토콜
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (1).png>)
 
 * 도메인 네임 시스템
 * 도메인 이름을 네트워크 주소로 바꾸거나 그 반대를 수행
