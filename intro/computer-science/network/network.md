@@ -20,7 +20,7 @@
 
 #### 대륙간 네트워크
 
-![대륙간 네트워크](<../../../.gitbook/assets/image (12).png>)
+![대륙간 네트워크](<../../../.gitbook/assets/image (12) (1).png>)
 
 
 
@@ -95,7 +95,7 @@
 
 **PPP(Point-to-Point Protocol) - 점대점 통신 약속(두대의 PC)**
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)
 
 * 두 통신 노드 간의 직접적인 연결을 위해 사용
 * Data-Link Protocol
@@ -265,7 +265,7 @@
 
 ### 6. 2 DNS(Domain Name System) - 프로토콜
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 * 도메인 네임 시스템
 * 도메인 이름을 네트워크 주소로 바꾸거나 그 반대를 수행

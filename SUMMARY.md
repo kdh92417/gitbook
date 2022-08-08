@@ -20,5 +20,7 @@
     * [쿠키와 세션](intro/computer-science/network/cookie\_and\_session.md)
   * [Computer Architecture](intro/computer-science/computer-architecture/README.md)
     * [Computer Architecture - Basic Theory](intro/computer-science/computer-architecture/computer-architecture-basic-theory.md)
+* [Algorithm](intro/algorithm/README.md)
+  * [빅오(big-O)](intro/algorithm/big-o.md)
 * [Basic Knowledge](intro/basic\_knowledge/README.md)
   * [기본 지식](intro/basic\_knowledge/basic\_knowledge.md)
