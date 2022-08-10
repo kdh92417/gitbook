@@ -10,6 +10,7 @@
     * [Garbage Collector](intro/language/python/garbage\_collector.md)
 * [데이터베이스](intro/database/README.md)
   * [정규화](intro/database/nomalization.md)
+  * [트랜잭션](intro/database/transaction.md)
 * [Computer Science](intro/computer-science/README.md)
   * [Operating System](intro/computer-science/operating-system/README.md)
     * [OS - Basic Theory](intro/computer-science/operating-system/os-operating-system.md)
