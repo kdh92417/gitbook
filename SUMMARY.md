@@ -26,3 +26,4 @@
 * [Basic Knowledge](intro/basic\_knowledge/README.md)
   * [기본 지식](intro/basic\_knowledge/basic\_knowledge.md)
   * [RESTfull API](intro/basic\_knowledge/rest_full_api.md)
+  * [Web Server, WAS, WSGI](intro/basic\_knowledge/server.md)
