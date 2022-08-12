@@ -25,7 +25,7 @@
 * 오픈소스
 * Architecture
 
-![](<../../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1) (2) (2).png>)
 
 #### 유닉스
 
