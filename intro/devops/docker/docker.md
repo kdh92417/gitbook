@@ -16,7 +16,7 @@
 
 <br>
 
-## Namespace and Cgroup
+## Namespace
 
 > 독립적인 공간을 제공하고 각각의 공간이 서로 충돌하지 않도록하는 리눅스 커널의 한 기능
 
