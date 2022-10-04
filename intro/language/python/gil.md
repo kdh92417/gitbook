@@ -30,7 +30,7 @@ Mutex란 여러 thread가 공유자원에 접근할 때 그 공유자원에 접�
 
 ## Why does python need GIL?
 
-* **CPython 메모리 관리가 취약** : thread safe를 하기위해 GIL 사용
+* **CPython 메모리 관리가 취약** : [thread safe](https://gompangs.tistory.com/entry/OS-Thread-Safe%EB%9E%80)를 하기위해 GIL 사용
   * Python은 reference counting 방식의 GC를 수행하는데 여러 쓰레드가 동시에 실행되면 [rece condition](https://iredays.tistory.com/125)이 발생되어 GC가 제대로 수행되지 않음
 * **Single Thread로도 충분히 빨르다**
 * **멀티 프로세스 사용 가능** : Numpy, Scipy등 GIL 외부 영역에서 효율적으로 코딩
