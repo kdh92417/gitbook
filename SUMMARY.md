@@ -29,4 +29,4 @@
   * [RESTfull API](intro/basic\_knowledge/rest\_full\_api.md)
   * [Web Server and WAS](intro/basic\_knowledge/server.md)
 * [Devops](intro/devops/README.md)
-  * [Docker](intro/devops/docker.md)
+  * [Docker](intro/devops/docker/docker.md)
