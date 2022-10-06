@@ -26,7 +26,7 @@
   * [빅오(big-O)](intro/algorithm/big-o.md)
 * [Basic Knowledge](intro/basic\_knowledge/README.md)
   * [기본 지식](intro/basic\_knowledge/basic\_knowledge.md)
-  * [RESTfull API](intro/basic\_knowledge/rest\_full\_api.md)
+  * [RESTfull API](intro/basic\_knowledge/rest\_api/rest\_full\_api.md)
   * [Web Server and WAS](intro/basic\_knowledge/server.md)
 * [Devops](intro/devops/README.md)
   * [Docker](intro/devops/docker/docker.md)
