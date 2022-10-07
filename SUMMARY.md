@@ -4,6 +4,10 @@
 
 ## intro
 
+* [Web](intro/web/README.md)
+  * [JWT](intro/web/jwt.md)
+  * [RESTfull API](intro/web/rest\_full\_api.md)
+  * [Web Server and WAS](intro/web/server.md)
 * [Language](intro/language/README.md)
   * [Python](intro/language/python/README.md)
     * [Python's GIL](intro/language/python/gil.md)
@@ -26,7 +30,5 @@
   * [빅오(big-O)](intro/algorithm/big-o.md)
 * [Basic Knowledge](intro/basic\_knowledge/README.md)
   * [기본 지식](intro/basic\_knowledge/basic\_knowledge.md)
-  * [RESTfull API](intro/basic\_knowledge/rest\_api/rest\_full\_api.md)
-  * [Web Server and WAS](intro/basic\_knowledge/server.md)
 * [Devops](intro/devops/README.md)
   * [Docker](intro/devops/docker/docker.md)
