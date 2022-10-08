@@ -216,10 +216,8 @@
 * 서로간에 통신을 하겠다고 선언을 한 후 대화를 하자(암구어)
 * 대화가 종료된 다음에는? 근데 귀찮게 매번 이렇게 해야돼?
 
-\
 
-
-### 5. 2 UDT(User Datagram Protocol) - 우편
+### 5. 2 UDP(User Datagram Protocol) - 우편
 
 ![](<../../../.gitbook/assets/image (18) (1).png>)
 
