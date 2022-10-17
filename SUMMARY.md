@@ -8,6 +8,7 @@
   * [JWT](intro/web/jwt.md)
   * [RESTfull API](intro/web/rest\_full\_api.md)
   * [Web Server and WAS](intro/web/server.md)
+  * [Monolithic and Microservice](intro/web/monolithic-and-microservice.md)
 * [Language](intro/language/README.md)
   * [Python](intro/language/python/README.md)
     * [Python's GIL](intro/language/python/gil.md)
