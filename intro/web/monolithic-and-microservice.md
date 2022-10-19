@@ -42,4 +42,13 @@ description: 모놀리식 아키텍처와 마이크로서비스 아키텍처 모
 
 * 새로운 언어나 프레임워크를 채택하여 앱을 구성하게되면 기존에 있던 코드를 전부 바꿔야된다.
   * 새로운 언어나 프레임워크를 채택하여 앱을 구성하는 것이 힘들다.
-* **서비스가 커질수록 유지관리가 어려움** : 서비스가 커질 수록
+
+<br>
+
+## Microservice Architecture
+
+> 마이크로 서비스 아키텍처는 하나의 소프트웨어를 구성하는 컴포넌트들을 독립적인 프로젝트들로 분리하여 관리하는 것을 의미한다.
+
+
+
+![출처 - https://www.n-ix.com/microservices-vs-monolith-which-architecture-best-choice-your-business/](../../.gitbook/assets/microservice.png)
