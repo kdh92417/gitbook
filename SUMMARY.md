@@ -36,6 +36,7 @@
   * [Recursive](intro/algorithm/recursive.md)
   * [DFS / BFS](intro/algorithm/dfs-bfs/README.md)
     * [백준: 14888 - 연산자 끼워넣기](intro/algorithm/dfs-bfs/14888.md)
-  * [Stack / Queue](intro/algorithm/stack-queue.md)
+  * [Stack / Queue](intro/algorithm/stack-queue/README.md)
+    * [백준: 2504 - 괄호의 값](intro/algorithm/stack-queue/2504.md)
   * [Dynamic Programming](intro/algorithm/dynamic-programming.md)
   * [Math](intro/algorithm/math.md)
