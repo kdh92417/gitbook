@@ -39,4 +39,5 @@
   * [Stack / Queue](intro/algorithm/stack-queue/README.md)
     * [백준: 2504 - 괄호의 값](intro/algorithm/stack-queue/2504.md)
   * [Dynamic Programming](intro/algorithm/dynamic-programming.md)
-  * [Math](intro/algorithm/math.md)
+  * [Math](intro/algorithm/math/README.md)
+    * [백준 9527 - 1의 개수 세기](intro/algorithm/math/9527-1.md)

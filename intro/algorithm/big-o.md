@@ -16,7 +16,7 @@
 * 상한 : 함수가 가장 늦게 실행 될 때(최악이 아님)
 * 하한 : 함수가 가장 빨리 실행 될 때
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 
 
