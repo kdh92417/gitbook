@@ -29,6 +29,8 @@
     * [Computer Architecture - Basic Theory](intro/computer-science/computer-architecture/computer-architecture-basic-theory.md)
 * [Devops](intro/devops/README.md)
   * [Docker](intro/devops/docker/docker.md)
+  * [Kubernetes](intro/devops/kubernetes/README.md)
+    * [Day 1](intro/devops/kubernetes/day-1.md)
 * [Etc](intro/basic\_knowledge/README.md)
   * [기본 지식](intro/basic\_knowledge/basic\_knowledge.md)
 * [Algorithm](intro/algorithm/README.md)
