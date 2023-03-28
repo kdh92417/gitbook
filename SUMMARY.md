@@ -31,6 +31,7 @@
   * [Docker](intro/devops/docker/docker.md)
   * [Kubernetes](intro/devops/kubernetes/README.md)
     * [Day 1](intro/devops/kubernetes/day-1.md)
+    * [Day 2](intro/devops/kubernetes/day-2.md)
 * [Etc](intro/basic\_knowledge/README.md)
   * [기본 지식](intro/basic\_knowledge/basic\_knowledge.md)
 * [Algorithm](intro/algorithm/README.md)
