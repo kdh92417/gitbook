@@ -4,7 +4,7 @@
 >
 > 토큰 자체를 정보로 사용하는 `Self-Contained` 방식으로 정보를 안전하게 전달
 
-![jwt](jwt.png)
+![jwt](../intro/web/jwt.png)
 
 \
 

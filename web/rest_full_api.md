@@ -1,6 +1,6 @@
 # RESTfull API
 
-![REST API](../basic\_knowledge/rest\_api/img\_1.png)
+![REST API](../intro/basic\_knowledge/rest\_api/img\_1.png)
 
 ## REST API란 무엇인가?
 

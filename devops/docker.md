@@ -1,6 +1,6 @@
 # Docker
 
-![img.png](img.png)
+![img.png](../intro/devops/docker/img.png)
 
 > 컨테이너 기반의 가상화 플랫폼
 
