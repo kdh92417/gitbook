@@ -79,4 +79,5 @@ variable을 data structure 각 list 또는 dictionary에 추가하면 참조 횟
 
 ## 참조
 
+* [https://it-eldorado.tistory.com/160](https://it-eldorado.tistory.com/160)
 * https://dc7303.github.io/python/2019/08/06/python-memory/
