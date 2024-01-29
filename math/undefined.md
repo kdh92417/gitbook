@@ -61,7 +61,10 @@ Decimal('0.3000000000000000166533453694')
 
 
 
+부동소수점 연산의 한계에 있어서 밑에 글에서 더 자세하게 다루고 있으니 확인해보면 좋을 듯 하다.
 
+* [https://devocean.sk.com/blog/techBoardDetail.do?page=\&boardType=undefined\&query=\&ID=165270\&searchData=\&subIndex=](https://devocean.sk.com/blog/techBoardDetail.do?page=\&boardType=undefined\&query=\&ID=165270\&searchData=\&subIndex=)
+* [https://devocean.sk.com/blog/techBoardDetail.do?page=\&boardType=undefined\&query=\&ID=165276\&searchData=\&subIndex=#none](https://devocean.sk.com/blog/techBoardDetail.do?page=\&boardType=undefined\&query=\&ID=165276\&searchData=\&subIndex=#none)
 
 
 
