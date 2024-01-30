@@ -7,7 +7,7 @@
   * [Monolithic and Microservice](web/monolithic-and-microservice.md)
 * [Language](language/README.md)
   * [Python](language/python/README.md)
-    * [Python's GIL](language/python/gil.md)
+    * [Python's GIL(Global Interpreter Lock)](language/python/gil.md)
     * [Garbage Collector](language/python/garbage\_collector.md)
 * [Database](database/README.md)
   * [정규화](database/nomalization.md)
